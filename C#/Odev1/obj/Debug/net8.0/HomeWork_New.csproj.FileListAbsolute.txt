@@ -1,0 +1,15 @@
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\bin\Debug\net8.0\HomeWork_New.exe
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\bin\Debug\net8.0\HomeWork_New.deps.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\bin\Debug\net8.0\HomeWork_New.runtimeconfig.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\bin\Debug\net8.0\HomeWork_New.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\bin\Debug\net8.0\HomeWork_New.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\obj\Debug\net8.0\HomeWork_New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\obj\Debug\net8.0\HomeWork_New.AssemblyInfoInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\obj\Debug\net8.0\HomeWork_New.AssemblyInfo.cs
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\obj\Debug\net8.0\HomeWork_New.csproj.CoreCompileInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\obj\Debug\net8.0\HomeWork_New.sourcelink.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\obj\Debug\net8.0\HomeWork_New.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\obj\Debug\net8.0\refint\HomeWork_New.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\obj\Debug\net8.0\HomeWork_New.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\obj\Debug\net8.0\HomeWork_New.genruntimeconfig.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\HomeWork_New\obj\Debug\net8.0\ref\HomeWork_New.dll

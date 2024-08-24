@@ -1,0 +1,15 @@
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\bin\Debug\net8.0\CSharp02_AnaMethod.exe
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\bin\Debug\net8.0\CSharp02_AnaMethod.deps.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\bin\Debug\net8.0\CSharp02_AnaMethod.runtimeconfig.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\bin\Debug\net8.0\CSharp02_AnaMethod.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\bin\Debug\net8.0\CSharp02_AnaMethod.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\obj\Debug\net8.0\CSharp02_AnaMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\obj\Debug\net8.0\CSharp02_AnaMethod.AssemblyInfoInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\obj\Debug\net8.0\CSharp02_AnaMethod.AssemblyInfo.cs
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\obj\Debug\net8.0\CSharp02_AnaMethod.csproj.CoreCompileInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\obj\Debug\net8.0\CSharp02_AnaMethod.sourcelink.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\obj\Debug\net8.0\CSharp02_AnaMethod.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\obj\Debug\net8.0\refint\CSharp02_AnaMethod.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\obj\Debug\net8.0\CSharp02_AnaMethod.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\obj\Debug\net8.0\CSharp02_AnaMethod.genruntimeconfig.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\CSharp02_AnaMethod\obj\Debug\net8.0\ref\CSharp02_AnaMethod.dll

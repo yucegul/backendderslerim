@@ -1,0 +1,15 @@
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\bin\Debug\net8.0\CSharp_Temel.exe
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\bin\Debug\net8.0\CSharp_Temel.deps.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\bin\Debug\net8.0\CSharp_Temel.runtimeconfig.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\bin\Debug\net8.0\CSharp_Temel.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\bin\Debug\net8.0\CSharp_Temel.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\obj\Debug\net8.0\CSharp_Temel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\obj\Debug\net8.0\CSharp_Temel.AssemblyInfoInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\obj\Debug\net8.0\CSharp_Temel.AssemblyInfo.cs
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\obj\Debug\net8.0\CSharp_Temel.csproj.CoreCompileInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\obj\Debug\net8.0\CSharp_Temel.sourcelink.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\obj\Debug\net8.0\CSharp_Temel.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\obj\Debug\net8.0\refint\CSharp_Temel.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\obj\Debug\net8.0\CSharp_Temel.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\obj\Debug\net8.0\CSharp_Temel.genruntimeconfig.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\CSharp_Temel\obj\Debug\net8.0\ref\CSharp_Temel.dll

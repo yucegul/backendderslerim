@@ -1,0 +1,15 @@
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\bin\Debug\net8.0\Proje03-ConvertTypes.exe
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\bin\Debug\net8.0\Proje03-ConvertTypes.deps.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\bin\Debug\net8.0\Proje03-ConvertTypes.runtimeconfig.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\bin\Debug\net8.0\Proje03-ConvertTypes.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\bin\Debug\net8.0\Proje03-ConvertTypes.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\obj\Debug\net8.0\Proje03-ConvertTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\obj\Debug\net8.0\Proje03-ConvertTypes.AssemblyInfoInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\obj\Debug\net8.0\Proje03-ConvertTypes.AssemblyInfo.cs
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\obj\Debug\net8.0\Proje03-ConvertTypes.csproj.CoreCompileInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\obj\Debug\net8.0\Proje03-ConvertTypes.sourcelink.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\obj\Debug\net8.0\Proje03-ConvertTypes.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\obj\Debug\net8.0\refint\Proje03-ConvertTypes.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\obj\Debug\net8.0\Proje03-ConvertTypes.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\obj\Debug\net8.0\Proje03-ConvertTypes.genruntimeconfig.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Proje03-ConvertTypes\obj\Debug\net8.0\ref\Proje03-ConvertTypes.dll
