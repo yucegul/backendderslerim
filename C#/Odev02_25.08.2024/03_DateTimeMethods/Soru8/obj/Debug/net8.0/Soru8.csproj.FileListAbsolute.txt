@@ -1,0 +1,15 @@
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\bin\Debug\net8.0\Soru8.exe
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\bin\Debug\net8.0\Soru8.deps.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\bin\Debug\net8.0\Soru8.runtimeconfig.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\bin\Debug\net8.0\Soru8.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\bin\Debug\net8.0\Soru8.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\obj\Debug\net8.0\Soru8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\obj\Debug\net8.0\Soru8.AssemblyInfoInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\obj\Debug\net8.0\Soru8.AssemblyInfo.cs
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\obj\Debug\net8.0\Soru8.csproj.CoreCompileInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\obj\Debug\net8.0\Soru8.sourcelink.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\obj\Debug\net8.0\Soru8.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\obj\Debug\net8.0\refint\Soru8.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\obj\Debug\net8.0\Soru8.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\obj\Debug\net8.0\Soru8.genruntimeconfig.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev02_25.08.2024\03_DateTimeMethods\Soru8\obj\Debug\net8.0\ref\Soru8.dll
