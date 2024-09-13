@@ -24,11 +24,19 @@ class Program
         if (sayi % 2 == 0) return false;
 
         var boundary = (int)Math.Floor(Math.Sqrt(sayi));
-          
-        for (int i = 3; i <= boundary; i += 2)
-        if (sayi % i == 0)
-        return false;
+          int i = 3;
+          do{
+            i +=2  ;
+          }
+          while(i <= boundary);
+          if (sayi % i == 0)
+          return false;
+          return true;
+
+        // for (int i = 3; i <= boundary; i += 2)
+        // if (sayi % i == 0)
+        // return false;
     
-        return true;        
+        // return true;        
         }
 }

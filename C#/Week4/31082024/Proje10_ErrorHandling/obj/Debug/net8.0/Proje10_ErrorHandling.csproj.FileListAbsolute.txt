@@ -1,0 +1,15 @@
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\bin\Debug\net8.0\Proje10_ErrorHandling.exe
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\bin\Debug\net8.0\Proje10_ErrorHandling.deps.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\bin\Debug\net8.0\Proje10_ErrorHandling.runtimeconfig.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\bin\Debug\net8.0\Proje10_ErrorHandling.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\bin\Debug\net8.0\Proje10_ErrorHandling.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\obj\Debug\net8.0\Proje10_ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\obj\Debug\net8.0\Proje10_ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\obj\Debug\net8.0\Proje10_ErrorHandling.AssemblyInfo.cs
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\obj\Debug\net8.0\Proje10_ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\obj\Debug\net8.0\Proje10_ErrorHandling.sourcelink.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\obj\Debug\net8.0\Proje10_ErrorHandling.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\obj\Debug\net8.0\refint\Proje10_ErrorHandling.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\obj\Debug\net8.0\Proje10_ErrorHandling.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\obj\Debug\net8.0\Proje10_ErrorHandling.genruntimeconfig.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\31082024\Proje10_ErrorHandling\obj\Debug\net8.0\ref\Proje10_ErrorHandling.dll

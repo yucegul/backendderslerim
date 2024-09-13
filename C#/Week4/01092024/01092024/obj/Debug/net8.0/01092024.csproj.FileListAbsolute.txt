@@ -1,0 +1,15 @@
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\bin\Debug\net8.0\01092024.exe
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\bin\Debug\net8.0\01092024.deps.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\bin\Debug\net8.0\01092024.runtimeconfig.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\bin\Debug\net8.0\01092024.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\bin\Debug\net8.0\01092024.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\obj\Debug\net8.0\01092024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\obj\Debug\net8.0\01092024.AssemblyInfoInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\obj\Debug\net8.0\01092024.AssemblyInfo.cs
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\obj\Debug\net8.0\01092024.csproj.CoreCompileInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\obj\Debug\net8.0\01092024.sourcelink.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\obj\Debug\net8.0\01092024.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\obj\Debug\net8.0\refint\01092024.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\obj\Debug\net8.0\01092024.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\obj\Debug\net8.0\01092024.genruntimeconfig.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Week4\01092024\01092024\obj\Debug\net8.0\ref\01092024.dll

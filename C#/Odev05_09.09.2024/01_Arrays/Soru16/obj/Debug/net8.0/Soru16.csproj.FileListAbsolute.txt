@@ -1,0 +1,15 @@
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\bin\Debug\net8.0\Soru16.exe
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\bin\Debug\net8.0\Soru16.deps.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\bin\Debug\net8.0\Soru16.runtimeconfig.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\bin\Debug\net8.0\Soru16.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\bin\Debug\net8.0\Soru16.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\obj\Debug\net8.0\Soru16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\obj\Debug\net8.0\Soru16.AssemblyInfoInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\obj\Debug\net8.0\Soru16.AssemblyInfo.cs
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\obj\Debug\net8.0\Soru16.csproj.CoreCompileInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\obj\Debug\net8.0\Soru16.sourcelink.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\obj\Debug\net8.0\Soru16.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\obj\Debug\net8.0\refint\Soru16.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\obj\Debug\net8.0\Soru16.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\obj\Debug\net8.0\Soru16.genruntimeconfig.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\01_Arrays\Soru16\obj\Debug\net8.0\ref\Soru16.dll

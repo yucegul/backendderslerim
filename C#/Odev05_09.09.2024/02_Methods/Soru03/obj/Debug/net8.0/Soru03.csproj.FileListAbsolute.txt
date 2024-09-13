@@ -1,0 +1,15 @@
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\bin\Debug\net8.0\Soru03.exe
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\bin\Debug\net8.0\Soru03.deps.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\bin\Debug\net8.0\Soru03.runtimeconfig.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\bin\Debug\net8.0\Soru03.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\bin\Debug\net8.0\Soru03.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\obj\Debug\net8.0\Soru03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\obj\Debug\net8.0\Soru03.AssemblyInfoInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\obj\Debug\net8.0\Soru03.AssemblyInfo.cs
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\obj\Debug\net8.0\Soru03.csproj.CoreCompileInputs.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\obj\Debug\net8.0\Soru03.sourcelink.json
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\obj\Debug\net8.0\Soru03.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\obj\Debug\net8.0\refint\Soru03.dll
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\obj\Debug\net8.0\Soru03.pdb
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\obj\Debug\net8.0\Soru03.genruntimeconfig.cache
+C:\Users\yuce\Desktop\medya\github\backendderslerim\C#\Odev05_09.09.2024\02_Methods\Soru03\obj\Debug\net8.0\ref\Soru03.dll
