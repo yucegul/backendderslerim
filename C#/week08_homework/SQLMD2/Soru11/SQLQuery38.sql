@@ -1,0 +1,7 @@
+SELECT CustomerID
+FROM Orders
+WHERE YEAR(OrderDate) = 1997
+INTERSECT
+SELECT CustomerID
+FROM Orders
+WHERE YEAR(OrderDate) = 1998;
